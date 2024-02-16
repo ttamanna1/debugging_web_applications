@@ -54,16 +54,10 @@ Run the server and make sure you can navigate, using your browser, from the albu
 
 ## Challenge
 
-This is a process feedback challenge. That means you should record yourself doing it and
-submit that recording to your coach for feedback. [How do I do
-this?](https://github.com/makersacademy/golden-square-in-python/blob/main/pills/process_feedback_challenges.md)
-
 Test-drive and implement the following changes to the `music_web_app_html` project:
 
 1. Add a route `GET /artists/<id>` which returns an HTML page showing details for a single artist.
 2. Add a route `GET /artists` which returns an HTML page with the list of artists. This page should contain a link for each artist listed, linking to `/artists/<id>` where `<id>` needs to be the corresponding artist id.
-
-[After you're done, submit your recording here](https://airtable.com/shrvo9ePjlwnaiLv5?prefill_Item=webpy_as03).
 
 
 [Next Challenge](04_using_forms.md)

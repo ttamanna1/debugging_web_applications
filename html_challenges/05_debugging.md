@@ -76,6 +76,8 @@ feel free to refer to the example solution to see the techniques at work.
 
 ## Challenge
 
+> Learning Objective: Follow a debugging process for a web application
+
 [Set up and debug the Postcode Checker application](../projects_to_debug/postcode_checker_app)
 
 

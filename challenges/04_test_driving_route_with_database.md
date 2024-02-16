@@ -220,9 +220,8 @@ returned by `GET /albums`.
 
 ## Challenge
 
-This is a process feedback challenge. That means you should record yourself
-doing it and submit that recording to your coach for feedback. [How do I do
-this?](https://github.com/makersacademy/golden-square-in-python/blob/main/pills/process_feedback_challenges.md)
+> Learning Objective: Implement web routes using a lightweight web framework
+> Learning Objective: Write integration tests for a web application
 
 Work in the same project directory as the Exercise above.
 
@@ -256,9 +255,6 @@ GET /artists
 # Expected response (200 OK)
 Pixies, ABBA, Taylor Swift, Nina Simone, Wild nothing
 ```
-
-[After you're done, submit your recording
-here](https://airtable.com/shrvo9ePjlwnaiLv5?prefill_Item=webpy_as02).
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

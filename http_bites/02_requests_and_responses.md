@@ -85,6 +85,8 @@ You should get the following response body:
 
 ## Challenge
 
+> Learning Objective: Explain how HTTP requests and responses work at a high level
+
 Use `curl` to send the following HTTP request:
   * Host: `https://jsonplaceholder.typicode.com`
   * Method: `POST`

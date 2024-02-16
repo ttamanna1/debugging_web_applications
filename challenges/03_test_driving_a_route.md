@@ -180,9 +180,8 @@ Alice,Joe,Julia,Kieran,Zoe
 
 ## Challenge
 
-This is a process feedback challenge. That means you should record yourself
-doing it and submit that recording to your coach for feedback. [How do I do
-this?](https://github.com/makersacademy/golden-square-in-python/blob/main/pills/process_feedback_challenges.md)
+> Learning Objective: Implement web routes using a lightweight web framework
+> Learning Objective: Write integration tests for a web application
 
 Use the Design Recipe to test-drive the following route:
 
@@ -216,10 +215,6 @@ body is the correct string.
 
   ---
 </details>
-
-[After you're done, submit your recording
-here](https://airtable.com/shrvo9ePjlwnaiLv5?prefill_Item=webpy_as01).
-
 
 
 [Next Challenge](04_test_driving_route_with_database.md)

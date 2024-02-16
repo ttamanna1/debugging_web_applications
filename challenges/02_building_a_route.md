@@ -250,6 +250,8 @@ route is working.
 
 ## Challenge
 
+> Learning Objective: Implement web routes using a lightweight web framework
+
 Work through the following in `app.py` your `hello_web_project` project.
 
 Create a new route that responds to requests sent with:
