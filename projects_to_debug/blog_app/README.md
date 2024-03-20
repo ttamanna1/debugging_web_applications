@@ -19,22 +19,21 @@ You may then wish to open `tests/test_app.py` for some guidance.
 Clone this repository and enter this directory.
 
 ```shell
-# Install dependencies and set up the virtual environment
-; pipenv install
+# Set up the virtual environment
+; python -m venv blog-application-starter-venv
 
 # Activate the virtual environment
-; pipenv shell
+; source blog-application-starter-venv/bin/activate 
 
-# Install the virtual browser we will use for testing
-; playwright install
-# If you have problems with the above, contact your coach
+# Install dependencies
+(blog-application-starter-venv); pip install -r requirements.txt
 
-# To run the tests
-; pytest
+# Run the tests (with extra logging)
+(blog-application-starter-venv); pytest -sv
 
-# To run the app
-; python app.py
-# Visit http://localhost:5001/ in your browser
+# Run the app
+(blog-application-starter-venv); python app.py
+# Now visit http://localhost:5001/ in your browser
 ```
 
 > **Note**  
